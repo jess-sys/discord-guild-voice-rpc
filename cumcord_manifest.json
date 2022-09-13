@@ -1,0 +1,7 @@
+{
+  "name": "guild-voice-rpc",
+  "description": "Allows RPC control of voice channel in servers",
+  "author": "Jessy SOBREIRO",
+  "file": "index.js",
+  "license": "MIT"
+}
